@@ -1,0 +1,10 @@
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe.config
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\bin\Debug\MatchingPairsGame.exe
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\bin\Debug\MatchingPairsGame.pdb
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\obj\Debug\MatchingPairsGame.csprojAssemblyReference.cache
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\obj\Debug\MatchingPairsGame.Form1.resources
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\obj\Debug\MatchingPairsGame.Properties.Resources.resources
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.GenerateResource.cache
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\obj\Debug\MatchingPairsGame.csproj.CoreCompileInputs.cache
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\obj\Debug\MatchingPairsGame.exe
+E:\Programmering\CSharp2019ByMadi\MatchingPairsGame\obj\Debug\MatchingPairsGame.pdb
